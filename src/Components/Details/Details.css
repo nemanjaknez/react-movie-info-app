@@ -1,0 +1,42 @@
+.details-content {
+  background-color: rgb(245,245,245);
+  border-radius: 2px;
+  box-shadow: rgba(0,0,0,0.3) 1px 1px 10px 1px;
+}
+
+h2 {
+  padding: 25px 0;
+  font-weight: bold;
+}
+
+.star {
+  font-size: 40px;
+  color: 	#DAA520;
+  margin-left: 10px;
+}
+
+h4 span {
+  font-size: 12px;
+}
+
+.rating h5 {
+  font-size: 16px;
+  margin-bottom: -28px;
+}
+
+.back-btn {
+  padding: 10px 20px;
+  margin-top: 15px;
+  font-weight: 600;
+  color: #757575;
+  background-color: rgb(245,245,245);
+  border: none;
+  border-radius: 2px;
+  box-shadow: rgba(0,0,0,0.2) 1px 2px 2px 0px;
+}
+
+.back-btn:hover {
+  text-decoration: none;
+  color: #333;
+  background-color: rgb(245,245,245);
+}

@@ -1,0 +1,26 @@
+.movie {
+  padding: 50px;
+  /* border-bottom: 2px solid #f5f5f5; */
+  border: 2px solid #f5f5f5;
+}
+
+.poster-img {
+  height: 240px;
+}
+
+.details-btn {
+  padding: 10px 20px;
+  margin-top: 15px;
+  font-weight: 600;
+  color: #757575;
+  background-color: rgb(245,245,245);
+  border: none;
+  border-radius: 2px;
+  box-shadow: rgba(0,0,0,0.2) 1px 2px 2px 0px;
+}
+
+.details-btn:hover {
+  text-decoration: none;
+  color: #333;
+  background-color: rgb(245,245,245);
+}

@@ -1,0 +1,45 @@
+.search-input {
+  height: 50px;
+  border: none;
+  border-radius: 0;
+  font-size: 18px;
+  background-color: rgb(245, 245, 245);
+  box-shadow: none;
+}
+
+.search-input:focus {
+  box-shadow: none;
+}
+
+.search-btn {
+  font-size: 18px;
+  padding: 6px 8px;
+  border: none;
+  border-radius: 0;
+  background-color: rgb(245, 245, 245);
+}
+
+.search-btn:hover {
+  background-color: rgb(245, 245, 245);
+}
+
+.search-glyph {
+  margin-right: 12px;
+}
+
+.search-glyph:hover {
+  cursor: pointer;
+}
+
+.search-group {
+  box-shadow: rgba(0,0,0,0.12) 1px 4px 4px 1px;
+  margin-bottom: 60px;
+}
+
+.search-group:hover {
+  box-shadow: rgba(0,0,0,0.2) 1px 4px 4px 1px;
+}
+
+h1 {
+  padding: 40px 0 20px;
+}
